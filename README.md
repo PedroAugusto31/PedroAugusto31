@@ -10,7 +10,7 @@ I'm a student who is learning the basics about how to make games and websites, I
   <li>HTML/CSS</li>
   <li>JavaScript</li>
 </ul>
--Interested to study📕📘:
+-Interested in studying📕📘:
 <ul>
   <li>React</li>
   <li>Node</li>
