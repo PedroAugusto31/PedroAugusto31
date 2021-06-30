@@ -1,7 +1,5 @@
 <h2> Welcome to my GitHub page</h2>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  
 I'm a student who is learning the basics about how to make games and websites, I'm currently learning how to program using C# with Unity and the basics of web development.
 
 > <h2> Tecnologies👨‍💻 </h2>
@@ -21,4 +19,12 @@ I'm a student who is learning the basics about how to make games and websites, I
 
 I'm studying to reach my dream of working at Square Enix.🤩
 
-If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com
+If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com<br>
+
+<br>
+<div>
+  <a href="https://github.com/PedroAugusto31">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto31&layout=compact&langs_count=16&theme=dracula"/>
+  </a>                                                                                                                                       
+</div>
