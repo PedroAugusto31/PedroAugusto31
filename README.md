@@ -24,7 +24,7 @@ If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com<br>
 <br>
 <div>
   <a href="https://github.com/PedroAugusto31">
-<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto31&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>                                                                                                                                       
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto31&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>                                                                                                                                
 </div>
