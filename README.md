@@ -19,7 +19,7 @@ I'm a student who is learning the basics about how to make games and websites, I
 
 I'm studying to reach my dream of working at Square Enix.🤩
 
-If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com<br>
+If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com
 
 <br>
 <div>
