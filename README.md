@@ -1,5 +1,7 @@
 <h2> Welcome to my GitHub page</h2>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 I'm a student who is learning the basics about how to make games and websites, I'm currently learning how to program using C# with Unity and the basics of web development.
 
 > <h2> Tecnologies👨‍💻 </h2>
