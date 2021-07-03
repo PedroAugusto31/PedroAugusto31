@@ -6,15 +6,15 @@ I'm a student who is learning how to make games and websites, I'm currently lear
 -Currently studying🚀:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" width="256" height="256" align="right">
 <ul>
-  <li>C#(Unity)</li>
-  <li>HTML/CSS</li>
-  <li>JavaScript</li>
+  <li><a href="https://unity.com/pages/unity-pro-buy-now" target="_blank">C#(Unity)</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank">HTML/CSS</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript</a></li>
 </ul>
 -Interested in studying📕📘:
 <ul>
-  <li>React</li>
-  <li>Node</li>
-  <li>Python/Django</li>
+  <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+  <li><a href="https://nodejs.org/en/" target="_blank">Node</a></li>
+  <li><a href="https://www.python.org/" target="_blank">Python/Django</a></li>
 </ul>
 
 I'm studying to reach my dream of working at Square Enix!🤩
