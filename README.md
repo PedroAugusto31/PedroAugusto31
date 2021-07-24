@@ -17,7 +17,7 @@ I'm a student who is learning how to make games and websites, I'm currently lear
   <li><a href="https://www.python.org/" target="_blank">Python/Django</a></li>
 </ul>
 
-Studying to reach my dream of working at Square Enix🤩
+Studying to reach my dream of working at Square Enix!🤩
 
 If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com
 
