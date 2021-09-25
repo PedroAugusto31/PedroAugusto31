@@ -7,12 +7,11 @@ Currently studying🚀:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" width="256" height="256" align="right">
 <ul>
   <li><a href="https://unity.com/pages/unity-pro-buy-now" target="_blank">C#(Unity)</a></li>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank">HTML/CSS</a></li>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript</a></li>
+  <li><a href="https://reactjs.org/" target="_blank">React</a></li>
 </ul>
 Interested in studying📘:
 <ul>
-  <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+  
   <li><a href="https://nodejs.org/en/" target="_blank">Node</a></li>
   <li><a href="https://www.python.org/" target="_blank">Python/Django</a></li>
 </ul>
