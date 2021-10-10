@@ -11,9 +11,10 @@ Currently studying🚀:
 </ul>
 Interested in studying📘:
 <ul>
-  
   <li><a href="https://nodejs.org/en/" target="_blank">Node</a></li>
   <li><a href="https://www.python.org/" target="_blank">Python/Django</a></li>
+  <li>Next.js</li>
+  <li>Typescript</li>
 </ul>
 
 Studying to reach my dream of working at Square Enix!🤩
