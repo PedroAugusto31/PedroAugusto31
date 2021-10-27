@@ -1,6 +1,6 @@
 <h2> Welcome to my GitHub page</h2>
   
-I'm a student who is learning how to make games and websites, I'm currently learning how to program using C# with Unity and some intermediary things of web development
+I'm a student who is learning how to make games and websites, I'm currently learning how to program using C# with Unity and some intermediary things of web development.
 
 > <h2> Tecnologies👨‍💻 </h2>
 Currently studying🚀:
