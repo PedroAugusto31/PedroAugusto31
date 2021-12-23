@@ -19,8 +19,6 @@ Interested in studying📘:
 
 Studying to reach my dream of working at Square Enix🤩
 
-If you want to, talk to me on e-mail: pedroaugustoa47@gmail.com
-
 <br>
 <div>
   <a href="https://github.com/PedroAugusto31">
