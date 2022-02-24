@@ -8,11 +8,11 @@ Currently studying🚀:
 <ul>
   <li><a href="https://unity.com/pages/unity-pro-buy-now" target="_blank">C#(Unity)</a></li>
   <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+   <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
 </ul>
 Interested in studying📘:
 <ul>
   <li><a href="https://www.typescriptlang.org/" target="_blank">Typescript</a></li>
-  <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
   <li><a href="https://nodejs.org/en/" target="_blank">Node</a></li>
   <li><a href="https://www.python.org/" target="_blank">Python/Django</a></li>
 </ul>
