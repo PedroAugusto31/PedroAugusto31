@@ -22,7 +22,7 @@ Studying to reach my dream of working at Square Enix🤩
 <br>
 <div>
   <a href="https://github.com/PedroAugusto31">
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img max-width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto31&layout=compact&langs_count=16&theme=tokyonight"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats-sepia-sigma.vercel.app/api?username=PedroAugusto31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img max-width="50%" height="150px" src="https://github-readme-stats-sepia-sigma.vercel.app/api/top-langs/?username=PedroAugusto31&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>                                                                                                                                
 </div>
